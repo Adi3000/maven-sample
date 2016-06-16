@@ -20,12 +20,12 @@
 	</scm>
 	<distributionManagement>
 		<repository>
-			<id>it-toolbox-releases</id>
+			<id>localhost-releases</id>
 			<name>iT-Toolbox Releases</name>
 			<url>http://localhost:9081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>it-toolbox-snapshots</id>
+			<id>localhost-snapshots</id>
 			<name>iT-Toolbox Snapshots</name>
 			<url>http://localhost:9081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
