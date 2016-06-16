@@ -9,13 +9,13 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<scm>
 		<connection>
-			scm:git:ssh://ittb-gitlab@cgi.it-toolbox.fr/it-toolbox/of.git
+			scm:git:file://C:/temp/gittemp/maven-sample.git
 		</connection>
 		<developerConnection>
-			scm:git:ssh://ittb-gitlab@cgi.it-toolbox.fr/it-toolbox/of.git
+			scm:git:file://C:/temp/gittemp/maven-sample.git
 		</developerConnection>
 		<url>
-			https://cgi.it-toolbox.fr/gitlab/it-toolbox/of
+			file://C:/temp/gittemp/maven-sample.git
 		</url>
 	</scm>
 	<modules>
