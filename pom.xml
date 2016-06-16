@@ -5,7 +5,7 @@
 	<packaging>pom</packaging>
 	<name>Maven sample parent</name>
 	<groupId>com.adi3000.demo.maven</groupId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<scm>
 		<connection>
 			scm:git:file://C:/temp/gittemp/maven-sample.git
@@ -16,7 +16,7 @@
 		<url>
 			file://C:/temp/gittemp/maven-sample.git
 		</url>
-	  <tag>maven-sample-parent-1.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<distributionManagement>
 		<repository>
