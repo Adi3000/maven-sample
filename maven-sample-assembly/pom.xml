@@ -53,7 +53,7 @@
   </dependencies>
   <parent>
   	<artifactId>maven-sample-parent</artifactId>
-  	<version>1.1.0</version>
+  	<version>1.1.1-SNAPSHOT</version>
   	<groupId>com.adi3000.demo.maven</groupId>
   </parent>
   <packaging>pom</packaging>
